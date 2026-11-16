@@ -86,7 +86,7 @@
       gap: 10px;
     }
     .skill-tag {
-      background-color: #e7f1ff;
+      background-color: #f4c2c2;
       color: #f347ed;
       padding: 6px 14px;
       border-radius: 20px;
@@ -124,7 +124,7 @@
 }
 
 .portfolio-card h2 {
-  color: #7b3f8d; /* നിങ്ങളുടെ പോർട്ട്‌ഫോളിയോയിലെ പർപ്പിൾ നിറം */
+  color: #f347ed;
   margin-bottom: 15px;
   font-size: 1.4rem;
 }
